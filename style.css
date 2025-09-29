@@ -105,3 +105,247 @@ a {}
 .matter-box {
     margin-bottom: 20px;
 }
+
+.Past-Lecture {
+    width: 1240px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Past-Lecture {
+}
+
+.Past-Lecture-text {
+    width: 50%;
+    background: beige;
+}
+
+.Past-Lecture-video {
+    width: 50%;
+    background: gainsboro;
+}
+
+.Past-Lecture-video img {
+    max-width: 100%;
+    display: flex;
+}
+
+.Past-Lecture-text {
+    padding: 55px;
+}
+
+.Past-Lecture-text h1 {
+    font-size: 40px;
+}
+
+.Past-Lecture-text h2 {
+    font-size: 23px;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+.Past-Lecture-text h3 {
+    font-size: 14px;
+}
+
+.Past-Lecture-texth h4 {
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+
+.Past-Lecture-text h4 {
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+.Past-Lecture-text h5 {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.Past-Lecture-box {
+    margin: auto;
+    width: 1240px;
+}
+
+.Past-Lecture-box h1 {
+    border-bottom: 2px solid red;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+.Past-Lecture-full-width {
+    margin-bottom: 20px;
+}
+.box-25{
+        width: 25%;
+}
+.bxslider-box {
+    width: 1240px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+.bd h1 {
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+.bd p {
+    font-size: 20px;
+       padding-top: 60px;
+}
+
+
+.bx-viewport{
+        height: 345.495px !important;
+}
+.bx-wrapper{
+    max-width:1240px !important;
+}
+.Past-Speakers {
+    width: 1240px;
+    margin: auto;
+}
+.Past-Speakers h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid red;
+    margin-bottom: 29px;
+    padding-bottom: 10px;
+}
+.Lectures-box {
+    background: green;
+    width: 1240px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.Lectures-box h1 {
+    padding: 86px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+wi {}
+
+.video-item {
+    width: 800px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.video-item-1 {
+  width: 32.8%;
+  border-bottom: 5px solid red;
+  margin-bottom: 10px;
+}
+
+.video-item-1 img {
+    max-width: 100%;
+}
+
+   
+
+.video-item-1 h1 {
+    font-size: 20px;
+}
+
+.video-item-1 h2 {
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.video-item-1 h3 {
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.video-item-1 h4 {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.about-khazanah-box {
+    width: 800px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-khazanah-box-text {
+    width: 66%;
+}
+
+.about-khazanah-box-photo {
+    width: 30%;
+}
+
+.about-khazanah-box-photo img {
+    max-width: 100%;
+}
+
+
+
+.about-khazanah-box-text h1 {
+    font-size: 24px;
+}
+
+.about-khazanah-box-text p {
+    font-size: 13px;
+    padding-top: 20px;
+}
+
+.about-khazanah-box-text p1 {
+    font-size: 13px;
+    padding-top: 44px;
+}
+.about-khazanah-box-text h2 {
+    font-size: 13px;
+    padding-top: 20px;
+    color: black;
+}
+.about-khazanah-box-text h3 {
+    font-size: 13px;
+    padding-top: 20px;
+}
+
+.about-khazanah-box-text h4 {
+    font-size: 13px;
+    padding-top: 20px;
+}
+.about-khazanah {
+    margin-bottom: 20px;
+    background: whitesmoke;
+}
+.nasional-berhad-box {
+    width: 800px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nasional-berhad-box-text {width: 68%;}
+
+.nasional-berhad-box-logo {
+    width: 28%;
+}
+
+.nasional-berhad-box-logo img {
+    max-width: 100%;
+    padding: 15px 0px;
+}
+
+.nasional-berhad-box-text h1 {
+    font-size: 30px;
+}
+
+.nasional-berhad-box-text h2 {
+    font-size: 12px;
+    padding-top: 20px;
+}

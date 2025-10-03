@@ -384,3 +384,54 @@ wi {}
     font-size: 14px;
     padding-top: 30px;
 }
+.send-us-item {
+    display: flex;
+    width: 800px;
+    margin: auto;
+}
+
+
+
+.send-us-item-text {
+    width: 50%;
+}
+
+
+.send-us-item-text h1 {
+    font-size: 30px;
+}
+
+.send-us-item-text h2 {
+    font-size: 15px;
+    padding-top: 20px;
+}.send-us-item-text h1 {
+    font-size: 30px;
+}
+
+.send-us-item-text h2 {
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.send-us--text h3 {
+    font-size: 30px;
+}
+
+.send-us--text h4 {
+    font-size: 15px;
+    padding-top: 4px;
+}
+h5 {}
+
+.send-us--text h5 {
+    font-size: 15px;
+    padding-top: 20px;
+}
+.send-us {
+    margin-bottom: 20px;
+}
+.send-us-item-text h6 {
+    font-size: 10px;
+    padding-top: 20px;
+    color: red;
+}
